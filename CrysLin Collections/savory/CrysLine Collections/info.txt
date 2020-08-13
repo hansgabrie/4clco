@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rubik-Light
+font link: https://fonts.google.com/specimen/Rubik
+font author: Hubert and Fischer
+font author site: http://hubertfischer.com/
+
+
+icon designer: Tommy Lau
+icon designer link: /lch121
+        
+{"bg":"#FDF7EC","icon-gradient-0":"#E56500","icon-gradient-1":"#EBC51D","font":"#342103","slogan":"#483517"}
+      
